@@ -9,7 +9,7 @@ metadata={
 
 [deps]
 
-source_file="res://NewsBin/icon.png"
+source_file="res://NewsBin/icon2.png"
 dest_files=[ "res://.import/icon.png-456101df37889bb22e604237eb7dc943.stex" ]
 
 [params]
